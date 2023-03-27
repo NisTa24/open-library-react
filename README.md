@@ -1,7 +1,8 @@
 # Open Library API w/ React
 
 ## About
-Open Library is an online project that aims to create a web page for every book ever published. The Open Library API is a free, open-source tool that provides developers with access to data on books, authors, publishers, and other related information. The API provides a RESTful interface that enables developers to programmatically search and retrieve data from the Open Library catalog. With the Open Library API, developers can build applications that integrate book data and metadata into their own projects, create book recommendation systems, or develop tools that analyze book-related data. The API is powered by data contributed by users, institutions, and individual book collectors, making it a comprehensive and continually growing resource for information on books and related topics.
+Open Library is an online project that aims to create a web page for every book ever published. The Open Library API is a free, open-source tool that provides developers with access to data on books, authors, publishers, and other related information. The API provides a RESTful interface that enables developers to programmatically search and retrieve data from the Open Library catalog. With the Open Library API, developers can build applications that integrate book data and metadata into their own projects, create book recommendation systems, or develop tools that analyze book-related data. 
+The API is powered by data contributed by users, institutions, and individual book collectors, making it a comprehensive and continually growing resource for information on books and related topics. We the help of the API, we have built a web app built in React that allows users to search for books using the Open Library API and display the search results. 
 
 ## Libraries used
 * React + TypeScript
